@@ -1,9 +1,20 @@
 {
-  "name": "02",
+  "name": "hello-world",
   "version": "1.0.0",
-  "description": "",
+  "description": "its the begining of backend",
+  "keywords": [
+    "lucy"
+  ],
+  "homepage": "https://github.com/Deepak21112005/NODE-JS-from-Piyush-Garg#readme",
+  "bugs": {
+    "url": "https://github.com/Deepak21112005/NODE-JS-from-Piyush-Garg/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak21112005/NODE-JS-from-Piyush-Garg.git"
+  },
   "license": "ISC",
-  "author": "",
+  "author": "Deepak Kumar",
   "type": "commonjs",
   "main": "hello.js",
   "scripts": {

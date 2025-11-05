@@ -1,0 +1,7 @@
+// to know the IP Address of google.com
+// in the terminal pass the command
+
+ping google.com
+// it will return
+142.250.179.174 
+// this is the address of google (may vary time to time)
