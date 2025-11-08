@@ -1,0 +1,14 @@
+"4.18.2" -> lock to that version 4.18.2
+
+"^4.18.2" -> install all recommended and minor fixes automatically  --- of 4th version
+
+"~4.18.2" -> install only minor fixes not even recommended fixes
+
+"1.0.0 - 2.9999.9999"   ->  from 1.0.0 to 2.9999.9999
+
+"<1.0.0 || >=2.3.1 <2.5.4 || >=2.5.2 <3.0.0"    -> 
+    first try <1.0.0, 
+    if not, try >=2.3.1 <2.5.4
+    if still not, try >=2.5.2 <3.0.0
+
+"latest"    ->  always use the latest version (not recommended)
